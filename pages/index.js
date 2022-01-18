@@ -89,7 +89,7 @@ const Home = () => {
   return (
     <div>
       <Head>
-        <title>TodoApp</title>
+        <title>Issue Tracker</title>
         <meta
           name="description"
           content="Awesome todoapp to store your awesome todos"
